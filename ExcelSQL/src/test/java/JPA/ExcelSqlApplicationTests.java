@@ -1,10 +1,10 @@
-package bijrep;
+package JPA;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BijrepApplicationTests {
+class ExcelSqlApplicationTests {
 
 	@Test
 	void contextLoads() {
